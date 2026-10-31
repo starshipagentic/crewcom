@@ -1,2 +1,3 @@
 # crewcom
-Placeholder repo for the crewcom project
+
+Placeholder package. The `crewcom` name is reserved for a future project.
